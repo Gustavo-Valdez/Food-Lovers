@@ -18,7 +18,7 @@ export function UserGuestScreen() {
         source={require("../../../../assets/img/user-guest.png")}
         style={styles.image}
       />
-      <Text style={styles.title}>Consultar tu perfil de 5 Tenedores</Text>
+      <Text style={styles.title}>Consultar tu perfil de Food Lovers</Text>
       <Text style={styles.description}>
         ¿Como describirías tu mejor restaurante? Busca y visualiza los mejores
         restaurantes de una forma sencilla, vota cual te ha gustado más y
